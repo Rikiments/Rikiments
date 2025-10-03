@@ -8,10 +8,10 @@ Estou em busca da minha primeira oportunidade de estágio, com foco principal na
 
 #### 🛠️ Habilidades e Tecnologias
 
-* **Linguagens:** Java, Python(Básico), SQL
+* **Linguagens:** Java, Python(Básico), SQL(Básico)
 * **Frameworks e APIs:** Spring Boot(Básico), Desenvolvimento de APIs REST(Básico)
 * **Bancos de Dados:** MySQL(Básico), SQL Server(Básico)
-* **Ferramentas:** Git, GitHub, Docker (Básico)
+* **Ferramentas:** Git, GitHub, Docker(Básico)
 * **Pacote Office:** Excel(avançado), Word(Básico), Power Point(Básico)
 * **Cloud:** AWS (Básico), Google Cloud (Básico)
 
