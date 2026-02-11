@@ -1,20 +1,50 @@
 ### Olá, meu nome é Rafael Riki 👋
+🎓 Estudante de Sistemas de Informação (5º semestre) – Universidade Presbiteriana Mackenzie  
+💻 Foco em Desenvolvimento Backend com Java e Spring Boot  
+☁️ Interesse em Arquitetura de APIs e Cloud Computing  
 
-Sou estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie, atualmente no 5º semestre.
-
-Estou em busca da minha primeira oportunidade de estágio, com foco principal na área de **Desenvolvimento de Software**. Meu objetivo é aplicar os conhecimentos da faculdade em projetos reais, aprender com profissionais experientes e contribuir para o crescimento da equipe e da empresa.
+Atualmente busco minha primeira oportunidade de estágio na área de Desenvolvimento de Software, com o objetivo de aplicar boas práticas de engenharia, organização em camadas e modelagem relacional em projetos reais.
 
 ---
 
-#### 🛠️ Habilidades e Tecnologias
+## 🚀 Principais Tecnologias
 
-* **Linguagens:** Java, Python(Básico), SQL(Básico)
-* **Frameworks e APIs:** Spring Boot(Básico), Desenvolvimento de APIs REST(Básico)
-* **Bancos de Dados:** MySQL(Básico), SQL Server(Básico)
-* **Ferramentas:** Git, GitHub, Docker(Básico)
-* **Pacote Office:** Excel(avançado), Word(Básico), Power Point(Básico)
-* **Cloud:** AWS (Básico), Google Cloud (Básico)
+### 🔹 Backend
+- Java 17+
+- Spring Boot
+- Spring Data JPA
+- Desenvolvimento de APIs REST
+- Maven
 
+### 🔹 Banco de Dados
+- PostgreSQL
+- MySQL
+- SQL Server
+- SQL e Modelagem Relacional
+
+### 🔹 Cloud & DevOps
+- Docker (containerização de aplicações)
+- AWS EC2 (deploy em ambiente Linux)
+- Conceitos de infraestrutura em nuvem
+
+### 🔹 Ferramentas
+- Git & GitHub
+- IntelliJ IDEA
+- Postman
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🔹 API de Gestão de OKRs
+API REST desenvolvida com Spring Boot, estruturada em camadas (Controller, Service e Repository), utilizando JPA para modelagem relacional entre entidades e tratamento global de exceções.  
+Deploy realizado em AWS EC2 com Docker.
+
+### 🔹 Deploy de Aplicação Java em Cloud
+Provisionamento manual de instância EC2, configuração de ambiente Linux e execução de aplicação Java containerizada.
+
+### 🔹 Processamento Automatizado de Arquivos
+Aplicação Java para leitura e processamento de grandes volumes de dados em arquivos `.TXT`, utilizando Java IO e tratamento de exceções.
 
 ---
 
