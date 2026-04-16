@@ -1,9 +1,8 @@
 ### Olá, meu nome é Rafael Riki 👋
-🎓 Estudante de Sistemas de Informação (5º semestre) – Universidade Presbiteriana Mackenzie  
+🎓 Estudante de Sistemas de Informação – Universidade Presbiteriana Mackenzie  
 💻 Foco em Desenvolvimento Backend com Java e Spring Boot  
-☁️ Interesse em Arquitetura de APIs e Cloud Computing  
 
-Atualmente busco minha primeira oportunidade de estágio na área de Desenvolvimento de Software, com o objetivo de aplicar boas práticas de engenharia, organização em camadas e modelagem relacional em projetos reais.
+Estou em busca da minha primeira oportunidade de estágio e totalmente aberto a desafios em Backend, Full Stack, Cloud, Engenharia de Dados, entre outras áreas. Quero absorver novos conhecimentos, entender as necessidades do negócio e evoluir tecnicamente junto com a empresa.
 
 ---
 
@@ -19,8 +18,6 @@ Atualmente busco minha primeira oportunidade de estágio na área de Desenvolvim
 ### 🔹 Banco de Dados
 - PostgreSQL
 - MySQL
-- SQL Server
-- SQL e Modelagem Relacional
 
 ### 🔹 Cloud & DevOps
 - Docker (containerização de aplicações)
